@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K24VURJGwfEIJweIZXxkkm/qyE6IBDs1+7vbFzPvwE69avuAVQKGdjzkNj/9JRc3WwZuzu4Rf12UAykRKM1LiA==",
+  "dgSpecHash": "SP8LJ2uc1GuIW/baeC8DinEwjcIdqBdDqP6DYTmQ8jqsS9a/Vil+WZTxP/3YD5GX5bqy+9/1hjAvXFxs2qywnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fjarosinski\\Documents\\code\\matc\\itdev162\\felicia-jarosinski\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\fjarosinski\\Documents\\code\\matc\\itdev162\\felicia-jarosinski\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
